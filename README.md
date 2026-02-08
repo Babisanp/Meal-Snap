@@ -62,8 +62,3 @@ In testing, the model successfully identifies multiple items in a standard fridg
 1. **Data Ingestion:** Data is pulled from Snowflake `BABI_DB.CXC.RECIPE_TABLE`.
 2. **API Endpoint:** Latest recipes are pushed to a static JSON endpoint via GitHub Actions to ensure 24/7 availability.
 3. **Inference:** The YOLOv12 model processes the image and combines detected classes with Snowflake data to draft the final recipe.
-
----
-
-## 🤝 Contributing
-Feel free to fork this repo and submit pull requests. For major changes, please open an issue first to discuss your ideas.
