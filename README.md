@@ -53,7 +53,7 @@ Our training process shows healthy downward trends in loss and rapid improvement
 In testing, the model successfully identifies multiple items in a standard fridge environment with high confidence scores, ranging from **67% to 93%** for complex items like flour, green beans, and milk.
 
 <p align="center">
-  <img src="inference_sample.jpg" width="70%" alt="YOLOv12 Fridge Inference Sample" />
+  <img src="graph3.png" width="70%" alt="YOLOv12 Fridge Inference Sample" />
 </p>
 
 ---
