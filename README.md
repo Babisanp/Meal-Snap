@@ -21,8 +21,8 @@ Upload a photo of your ingredients, tell the AI what you're craving, and receive
 * **Frontend:** **Next.js**, **React**, and **Tailwind CSS** for a fast, responsive UI.
 * **Computer Vision:** **YOLOv12** for real-time detection, with **Roboflow** for dataset management.
 * **AI & Audio:** **Gemini** for recipe generation and **ElevenLabs** for natural-sounding voice instructions.
-* **Data & Backend:** **Python**, **Snowflake** (BABI_DB) for data warehousing, and **Supabase** for real-time database needs.
-* **Infrastructure & Auth:** **Auth0** for security, **AWS** for cloud computing, and **Vercel** for deployment.
+* **Data & Backend:** **Python**, **Snowflake** for data warehousing, and **Supabase** for real-time database needs.
+* **Infrastructure & Auth:** **Auth0** for security, **AWS** for cloud computing, **Render** for hosting, and **Vercel** for deployment.
 
 ---
 
